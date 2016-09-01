@@ -1,0 +1,7 @@
+<%= render 'notifications_mailer/shared/hello', recipient: @recipient %>
+
+<p><%= t('.body.new_account_created') %> "<%= @attached_object.profile.full_name %> &lt;<%= @attached_object.email%>&gt;"</p>
+
+<% if @attached_object.invoicing_disabled? %>
+  <p><%= t('.body.invoicing_disabled_html') %></p>
+<% end %>
