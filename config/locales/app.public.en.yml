@@ -27,20 +27,20 @@ en:
         # left menu (public)
         home: "Home"
         reserve_a_machine: "Reserve a Machine"
-        trainings_registrations: "Trainings registrations"
-        courses_and_workshops_registrations: "Courses and Workshops registrations"
-        projects_gallery: "Projects gallery"
+        trainings_registrations: "Registration for training"
+        courses_and_workshops_registrations: "Courses and Workshops"
+        projects_gallery: "Project gallery"
         subscriptions: "Subscriptions"
 
         # left menu (admin)
-        trainings_monitoring: "Trainings monitoring"
-        manage_the_calendar: "Manage the Calendar"
-        manage_the_users: "Manage the Users"
-        manage_the_invoices: "Manage the invoices"
+        trainings_monitoring: "Manage Trainings"
+        manage_the_calendar: "Manage Calendar"
+        manage_the_users: "Manage Users"
+        manage_the_invoices: "Manage Invoices"
         subscriptions_and_prices: "Subscriptions and Prices"
-        courses_and_workshops_monitoring: "Courses and Workshops monitoring"
-        manage_the_machines: "Manage the Machines"
-        manage_the_projects_elements: "Manage the Projects Elements"
+        courses_and_workshops_monitoring: "Courses and Workshops management"
+        manage_the_machines: "Manage Machines"
+        manage_the_projects_elements: "Manage Projects Elements"
         statistics: "Statistics"
         customization: "Customization"
 
@@ -69,9 +69,9 @@ en:
         birth_date_is_required: "Birth date is required."
         phone_number: "Phone number"
         phone_number_is_required: "Phone number is required."
-        i_authorize_Fablab_users_registered_on_the_site_to_contact_me: "I authorize FabLab users, registered on the site, to contact me"
+        i_authorize_Fablab_users_registered_on_the_site_to_contact_me: "I authorize Fab@CIC users, registered on the site, to contact me"
         i_ve_read_and_i_accept_: "I've read and I accept"
-        _the_fablab_policy: "the FabLab policy"
+        _the_fablab_policy: "the Fab@CIC policy"
 
         # password modification modal
         change_your_password: "Change your password"
