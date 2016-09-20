@@ -76,10 +76,10 @@ end
 
 if Group.count == 0
   Group.create!([
-    {name: "standard, association", slug: "standard"},
-    {name: "étudiant, - de 25 ans, enseignant, demandeur d'emploi", slug: "student"},
-    {name: "artisan, commerçant, chercheur, auto-entrepreneur", slug: "merchant"},
-    {name: "PME, PMI, SARL, SA", slug: "business"}
+    {name: "standard", slug: "standard"},
+      {name: "student", slug: "student"},
+    {name: "Start-up", slug: "startup"},
+      {name: "Other", slug: "business"}
   ])
 end
 
